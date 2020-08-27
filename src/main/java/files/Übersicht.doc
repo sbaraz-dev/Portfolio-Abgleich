@@ -1,0 +1,656 @@
+Date: Thu, 27 Aug 2020 16:26:09 +0200 (CEST)
+Message-ID: <1446227141.14162.1598538369258@confluence.adesso.de>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_14161_307398226.1598538369257"
+
+------=_Part_14161_307398226.1598538369257
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=C3=9Cbersicht</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=C3=9Cbersicht</h1>
+    <div class=3D"Section1">
+        <div class=3D"contentLayout2">=20
+<div class=3D"columnLayout two-equal" data-layout=3D"two-equal">=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<p><br></p>
+</div>=20
+</div>=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<p><br></p>
+<p><br></p>
+</div>=20
+</div>=20
+</div>=20
+<div class=3D"columnLayout two-equal" data-layout=3D"two-equal">=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<h1 style=3D"margin-left: 30.0px;" id=3D"id-=C3=9Cbersicht-IndustryServices=
+"><span style=3D"color: rgb(128,0,0);"><strong> <a href=3D"/display/ONEades=
+so/Industry+Services">Industry Services</a></strong></span></h1>
+<ul>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Automo=
+tive">Automotive</a></span>
+<ul>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/pages/viewpage.action?pa=
+geId=3D196208041">Konnektivit=C3=A4t</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Autono=
+mes+Fahren">Autonomes Fahren</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/pages/viewpage.action?pa=
+geId=3D196208049">Mobilit=C3=A4tsservices</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/E+Mobi=
+lity">E Mobility</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Embedd=
+ed+Security">Embedded Security</a></span></li>
+</ul></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Bankin=
+g">Banking</a></span>
+<ul>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Digita=
+ler+Bankarbeitsplatz">Digitaler Bankarbeitsplatz</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Firmen=
+kundenportale">Firmenkundenportale</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Kredit=
+prozesse">Kreditprozesse</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Regula=
+torik">Regulatorik</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/pages/viewpage.action?pa=
+geId=3D196207988">Integration Layer &amp; Bank-APIs</a></span></li>
+</ul></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Health=
++%7C+Life+Sciences">Health | Life Sciences</a></span><br>
+<ul>
+<li><a href=3D"/display/ONEadesso/Life+Sciences+Regulatorik">Life Sciences =
+Regulatorik</a></li>
+<li><a href=3D"/pages/viewpage.action?pageId=3D196185031">RPA &amp; AS f=C3=
+=BCr GKV</a></li>
+<li><a href=3D"/display/ONEadesso/Service+ChatBots">Service ChatBots</a></l=
+i>
+<li><a href=3D"/pages/viewpage.action?pageId=3D196201847">Konzeption &amp; =
+Entwicklung von Medizintechnik Software &amp; Apps</a></li>
+<li><a href=3D"/display/ONEadesso/Mobile+Apps+for+Health">Mobile Apps for H=
+ealth</a></li>
+</ul></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Insura=
+nce">Insurance</a></span>
+<ul>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Vertri=
+ebsprozesse">Vertriebsprozesse</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/pages/viewpage.action?pa=
+geId=3D198942584">Schaden-/ Leistungsprozesse</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Betrug=
+smanagement">Betrugsmanagement</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/pages/viewpage.action?pa=
+geId=3D198942588">R=C3=BCckversicherungsprozesse</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><span class=3D"plugin_pagetree_child=
+ren_span"><a href=3D"https://confluence.adesso.de/display/ONEadesso/BiPRO?s=
+rc=3Dcontextnavpagetreemode" rel=3D"nofollow">BiPRO</a></span></span></li>
+</ul></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Lotter=
+y">Lottery</a></span>
+<ul>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/pages/viewpage.action?pa=
+geId=3D196209250">Change Management &amp; Ver=C3=A4nderungsf=C3=A4higkeit</=
+a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Mobile=
++Apps">Mobile Apps</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Procur=
+ement+Consulting">Procurement Consulting</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Strate=
+gy+Consulting">Strategy Consulting</a></span></li>
+</ul></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Manufa=
+cturing+Industry">Manufacturing Industry</a></span>
+<ul>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Varian=
+tenmanagement">Variantenmanagement</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Produc=
+t+to+Service">Product to Service</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Digita=
+ler+Shopfloor">Digitaler Shopfloor</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Predic=
+tive+Maintenance+und+Field+Service">Predictive Maintenance und Field Servic=
+e</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Afters=
+ales+Services+4.0">Aftersales Services 4.0</a></span></li>
+</ul></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Public=
+">Public</a></span>
+<ul>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/pages/viewpage.action?pa=
+geId=3D196199321">eID - Elektronische Identit=C3=A4t</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/IT-Kon=
+solidierung+des+Bundes">IT-Konsolidierung des Bundes</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/pages/viewpage.action?pa=
+geId=3D196199242">Onlinezugangsgesetz (OZG)</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/pages/viewpage.action?pa=
+geId=3D196199324">Technologie-/ Datenmigration in der =C3=B6ffentlichen Ver=
+waltung</a></span></li>
+</ul></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Retail=
+">Retail</a></span>
+<ul>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Custom=
+er+Data+Hub">Customer Data Hub</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Erlebn=
+issteigerung">Erlebnissteigerung</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/pages/viewpage.action?pa=
+geId=3D192011294">Portale f=C3=BCr eine einzigartige CEX</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Produk=
+tinformationen+automatisieren">Produktinformationen automatisieren</a></spa=
+n></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/pages/viewpage.action?pa=
+geId=3D192011280">Umsatzsteigerung durch B2B-Marktpl=C3=A4tze</a></span></l=
+i>
+</ul></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/pages/viewpage.action?pa=
+geId=3D195219708">Transportation &amp; Logistic</a></span>
+<ul>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/Mobile+Ticketing?src=3Dcontextnavpagetreem=
+ode" rel=3D"nofollow">Mobile Ticketing</a> </span></li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/Zuginformationssystem?src=3Dcontextnavpage=
+treemode" rel=3D"nofollow">Zuginformationssystem</a> </span></li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/Passenger+Flow+Simulation?src=3Dcontextnav=
+pagetreemode" rel=3D"nofollow">Passenger Flow Simulation</a> </span></li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/pages/viewpage.action?pageId=3D198940394&amp;src=3Dcontextna=
+vpagetreemode" rel=3D"nofollow">Connected Fleeds &amp; Logistics</a> </span=
+></li>
+</ul></li>
+<li><span style=3D"color: rgb(0,0,128);"><a href=3D"/display/ONEadesso/Util=
+ities">Utilities</a></span>
+<ul>
+<li><a href=3D"/display/ONEadesso/ERP+Systeme+in+der+Energiewirtschaft">ERP=
+ Systeme in der Energiewirtschaft</a></li>
+<li><a href=3D"/display/ONEadesso/Netzplanung+-+Datenhaltung">Netzplanung -=
+ Datenhaltung</a></li>
+<li><a href=3D"/display/ONEadesso/Regulierung">Regulierung</a></li>
+<li><a href=3D"/display/ONEadesso/Smart+Energy">Smart Energy</a></li>
+<li><a href=3D"/display/ONEadesso/Smart+Grid">Smart Grid</a></li>
+</ul></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Indust=
+ry+Independent">Industry Independent</a></span>
+<ul>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Vertri=
+eb">Vertrieb</a></span>
+<ul>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/CRM+Be=
+ratung+und+Implementierung">CRM Beratung und Implementierung</a></span></li=
+>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/e-Comm=
+erce">e-Commerce</a></span></li>
+</ul></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Market=
+ing">Marketing</a></span>
+<ul>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/pages/viewpage.action?pa=
+geId=3D195219051">Websites &amp; Portale</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/pages/viewpage.action?pa=
+geId=3D195219078">Kreation &amp; Design</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/display/ONEadesso/Online=
++Marketing">Online Marketing</a></span></li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/Marketing+Automation?src=3Dcontextnavpaget=
+reemode" rel=3D"nofollow">Marketing Automation</a> </span></li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/pages/viewpage.action?pageId=3D199692956&amp;src=3Dcontextna=
+vpagetreemode" rel=3D"nofollow">Customer Data Hub/Customer Data Platform</a=
+> </span> </li>
+</ul></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/pages/viewpage.action?pa=
+geId=3D195219725">Unternehmensplanung &amp; -Steuerung</a></span></li>
+<li><span style=3D"color: rgb(0,0,0);"><a href=3D"/pages/viewpage.action?pa=
+geId=3D191993692">IT-Organisation &amp; -Steuerung</a></span>
+<ul>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/pages/viewpage.action?pageId=3D195219738&amp;src=3Dcontextna=
+vpagetreemode" rel=3D"nofollow">Hosting &amp; Application Management</a> </=
+span></li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/pages/viewpage.action?pageId=3D199691611&amp;src=3Dcontextna=
+vpagetreemode" rel=3D"nofollow">IT-ARCHITEKTUR &amp; BUSINESS INTEGRATION</=
+a> </span></li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/IT-Prozesse+und+IT-Providermanagement?src=
+=3Dcontextnavpagetreemode" rel=3D"nofollow">IT-Prozesse und IT-Providermana=
+gement</a> </span></li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/pages/viewpage.action?pageId=3D198942849&amp;src=3Dcontextna=
+vpagetreemode" rel=3D"nofollow">IT Transformation &amp; Agilisierung der Or=
+ganisation</a> </span></li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/pages/viewpage.action?pageId=3D195219745&amp;src=3Dcontextna=
+vpagetreemode" rel=3D"nofollow">Service &amp; Security Management</a></span=
+></li>
+</ul></li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/pages/viewpage.action?pageId=3D199690703&amp;src=3Dcontextna=
+vpagetreemode" rel=3D"nofollow">E2E Digitalisierung Vertrieb/Service/Market=
+ing</a> </span></li>
+</ul></li>
+</ul>
+</div>=20
+</div>=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<h1 id=3D"id-=C3=9Cbersicht-E2EServices"><strong><a href=3D"/display/ONEade=
+sso/E2E+Services">E2E Services</a></strong></h1>
+<ul>
+<li><a href=3D"/display/ONEadesso/Business+Consulting">Business Consulting<=
+/a>
+<ul>
+<li><a href=3D"/display/ONEadesso/Prozess+Management">Prozess Management</a=
+></li>
+</ul></li>
+<li><a href=3D"/display/ONEadesso/Digital+Transformation">Digital Transform=
+ation</a><br>
+<ul>
+<li><a href=3D"/display/ONEadesso/Agile">Agile</a></li>
+<li><a href=3D"/display/ONEadesso/Innovation+Management">Innovation Managem=
+ent</a></li>
+<li><a href=3D"/pages/viewpage.action?pageId=3D195219766">IT Strategy &amp;=
+ Enterprise Architecture Consulting</a></li>
+<li><a href=3D"/display/ONEadesso/Design+Thinking">Design Thinking</a></li>
+<li><a href=3D"/pages/viewpage.action?pageId=3D196202324">Interaction Room =
+(IR)</a></li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/Digitalisierungsstrategie?src=3Dcontextnav=
+pagetreemode" rel=3D"nofollow">Digitalisierungsstrategie</a> </span></li>
+</ul></li>
+<li><a href=3D"/display/ONEadesso/Software+Engineering">Software Engineerin=
+g</a>
+<ul>
+<li><a href=3D"/display/ONEadesso/Managed+Services">Managed Services</a>
+<ul>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/Application+Management?src=3Dcontextnavpag=
+etreemode" rel=3D"nofollow">Application Management</a> </span></li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/pages/viewpage.action?pageId=3D198942826&amp;src=3Dcontextna=
+vpagetreemode" rel=3D"nofollow">Hosting &amp; Plattform Management</a> </sp=
+an></li>
+</ul></li>
+<li><a href=3D"/display/ONEadesso/Coding">Coding</a></li>
+<li><a href=3D"/display/ONEadesso/DevOps">DevOps</a></li>
+<li><a href=3D"/pages/viewpage.action?pageId=3D196201171">IT Consulting &am=
+p; Software Architecture</a></li>
+<li><a href=3D"/display/ONEadesso/Projektmanagement">Projektmanagement</a><=
+/li>
+<li><a href=3D"/display/ONEadesso/Quality+Assurance">Quality Assurance</a><=
+/li>
+<li><a href=3D"/pages/viewpage.action?pageId=3D196205986">Requirements Engi=
+neering &amp; Design</a></li>
+</ul></li>
+</ul>
+</div>=20
+</div>=20
+</div>=20
+<div class=3D"columnLayout two-equal" data-layout=3D"two-equal">=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<p><br></p>
+<p><br></p>
+</div>=20
+</div>=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<p><br></p>
+<p><br></p>
+</div>=20
+</div>=20
+</div>=20
+<div class=3D"columnLayout two-equal" data-layout=3D"two-equal">=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<h1 id=3D"id-=C3=9Cbersicht-Technologies"><strong><a href=3D"/display/ONEad=
+esso/Technologies">Technologies</a></strong></h1>
+<ul>
+<li><p><a href=3D"/display/ONEadesso/Java">Java</a></p></li>
+<li><p><a href=3D"/display/ONEadesso/Microsoft">Microsoft</a></p>
+<ul>
+<li><a href=3D"/display/ONEadesso/Business+Productivity">Business Productiv=
+ity</a></li>
+<li><a href=3D"/pages/viewpage.action?pageId=3D195219813">Cloud (Azure)</a>=
+</li>
+<li><a href=3D"/pages/viewpage.action?pageId=3D195219815">CRM (Dynamics)</a=
+></li>
+</ul></li>
+<li><a href=3D"/display/ONEadesso/SAP">SAP</a>
+<ul>
+<li><a href=3D"/pages/viewpage.action?pageId=3D196207642">SAP BW/4HANA (Ana=
+lytics)</a></li>
+<li><a href=3D"/pages/viewpage.action?pageId=3D196207766">SAP Custom Develo=
+pment &amp; Integration</a></li>
+<li><a href=3D"/display/ONEadesso/SAP+Customer+Experience">SAP Customer Exp=
+erience</a></li>
+<li><a href=3D"/pages/viewpage.action?pageId=3D195219821">SAP S/4HANA (Modu=
+lberatung &amp; Entwicklung)</a></li>
+<li><a href=3D"/display/ONEadesso/SAP+Technology+Consulting">SAP Technology=
+ Consulting</a></li>
+</ul></li>
+<li><a href=3D"/display/ONEadesso/Salesforce">Salesforce</a></li>
+<li><a href=3D"/display/ONEadesso/App-Entwicklung">App-Entwicklung</a></li>
+<li><a href=3D"/display/ONEadesso/KI">KI</a>
+<ul>
+<li><a href=3D"/display/ONEadesso/Chatbots">Chatbots</a></li>
+<li><a href=3D"/display/ONEadesso/Cognitive+Services">Cognitive Services</a=
+></li>
+<li><a href=3D"/pages/viewpage.action?pageId=3D195219871">Data Science &amp=
+; ML</a></li>
+</ul></li>
+<li><a href=3D"/display/ONEadesso/Cloud">Cloud</a></li>
+<li><a href=3D"/pages/viewpage.action?pageId=3D191997316">Data &amp; Analyt=
+ics</a>
+<ul>
+<li><a href=3D"/display/ONEadesso/Datengetriebene+Services">Datengetriebene=
+ Services</a></li>
+<li><a href=3D"/pages/viewpage.action?pageId=3D195219866">Data &amp; Analyt=
+ics Platform</a></li>
+<li><a href=3D"/display/ONEadesso/Self+Service+Analytics+and+BI">Self Servi=
+ce Analytics and BI</a></li>
+<li><a href=3D"/display/ONEadesso/Big+Data">Big Data</a></li>
+<li><a href=3D"/pages/viewpage.action?pageId=3D195230157">Datenmanagement (=
+DWH/Reporting)</a></li>
+</ul></li>
+<li><a href=3D"/display/ONEadesso/Internet+of+Things">Internet of Things</a=
+>
+<ul>
+<li><a href=3D"https://confluence.adesso.de/display/ONEadesso/Beratungsleis=
+tung+IoT?src=3Dcontextnavpagetreemode" rel=3D"nofollow">Beratungsleistung I=
+oT</a></li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/Hardware%2C+Gateways+und+Sensorik?src=3Dco=
+ntextnavpagetreemode" rel=3D"nofollow">Hardware, Gateways und Sensorik</a> =
+</span></li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/IoT-Cloud-Plattformen?src=3Dcontextnavpage=
+treemode" rel=3D"nofollow">IoT-Cloud-Plattformen</a> </span></li>
+</ul></li>
+<li><a href=3D"/pages/viewpage.action?pageId=3D195219885">AR/VR</a></li>
+<li><a href=3D"/display/ONEadesso/Blockchain">Blockchain</a></li>
+</ul>
+</div>=20
+</div>=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<h1 id=3D"id-=C3=9Cbersicht-Solutions"><strong><a href=3D"/display/ONEadess=
+o/Solutions">Solutions</a></strong></h1>
+<ul>
+<li><p><span class=3D"plugin_pagetree_children_span"> <a href=3D"https://co=
+nfluence.adesso.de/display/ONEadesso/in%7Csure?src=3Dcontextnavpagetreemode=
+" rel=3D"nofollow">in|sure</a> </span> </p></li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/in%7Crelation?src=3Dcontextnavpagetreemode=
+" rel=3D"nofollow">in|relation</a> </span> </li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/adesso+banking+solutions?src=3Dcontextnavp=
+agetreemode" rel=3D"nofollow">adesso banking solutions</a> </span> </li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/adesso+financial+platform?src=3Dcontextnav=
+pagetreemode" rel=3D"nofollow">adesso financial platform</a> </span> </li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/FirstSpirit?src=3Dcontextnavpagetreemode" =
+rel=3D"nofollow">FirstSpirit</a> </span> </li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/drebis?src=3Dcontextnavpagetreemode" rel=
+=3D"nofollow">drebis</a> </span> </li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/Transformer?src=3Dcontextnavpagetreemode" =
+rel=3D"nofollow">Transformer</a> </span> </li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/MIGSuite?src=3Dcontextnavpagetreemode" rel=
+=3D"nofollow">MIGSuite</a> </span> </li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/com2m+IoT-Platform?src=3Dcontextnavpagetre=
+emode" rel=3D"nofollow">com2m IoT-Platform</a> </span> </li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/LotteryForce?src=3Dcontextnavpagetreemode"=
+ rel=3D"nofollow">LotteryForce</a> </span> </li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/KVAI+PRO?src=3Dcontextnavpagetreemode" rel=
+=3D"nofollow">KVAI PRO</a> </span> </li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/PBM+-+Personal+Business+Machine?src=3Dcont=
+extnavpagetreemode" rel=3D"nofollow">PBM - Personal Business Machine</a> </=
+span> </li>
+<li><span class=3D"plugin_pagetree_children_span"><a href=3D"https://conflu=
+ence.adesso.de/display/ONEadesso/urban+energy+-+der+adesso+Energy+data+hub?=
+src=3Dcontextnavpagetreemode" rel=3D"nofollow">urban energy - der adesso En=
+ergy data hub</a> </span></li>
+</ul>
+<p><br></p>
+</div>=20
+</div>=20
+</div>=20
+</div>
+    </div>
+</body>
+</html>
+------=_Part_14161_307398226.1598538369257--

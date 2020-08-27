@@ -1,0 +1,146 @@
+﻿Industry Services
+• Automotive 
+o Konnektivität
+o Autonomes Fahren
+o Mobilitätsservices
+o E Mobility
+o Embedded Security
+• Banking 
+o Digitaler Bankarbeitsplatz
+o Firmenkundenportale
+o Kreditprozesse
+o Regulatorik
+o Integration Layer & Bank-APIs
+• Health | Life Sciences
+o Life Sciences Regulatorik
+o RPA & AS für GKV
+o Service ChatBots
+o Konzeption & Entwicklung von Medizintechnik Software & Apps
+o Mobile Apps for Health
+• Insurance 
+o Vertriebsprozesse
+o Schaden-/ Leistungsprozesse
+o Betrugsmanagement
+o Rückversicherungsprozesse
+o BiPRO
+• Lottery 
+o Change Management & Veränderungsfähigkeit
+o Mobile Apps
+o Procurement Consulting
+o Strategy Consulting
+• Manufacturing Industry 
+o Variantenmanagement
+o Product to Service
+o Digitaler Shopfloor
+o Predictive Maintenance und Field Service
+o Aftersales Services 4.0
+• Public 
+o eID - Elektronische Identität
+o IT-Konsolidierung des Bundes
+o Onlinezugangsgesetz (OZG)
+o Technologie-/ Datenmigration in der öffentlichen Verwaltung
+• Retail 
+o Customer Data Hub
+o Erlebnissteigerung
+o Portale für eine einzigartige CEX
+o Produktinformationen automatisieren
+o Umsatzsteigerung durch B2B-Marktplätze
+• Transportation & Logistic 
+o Mobile Ticketing 
+o Zuginformationssystem 
+o Passenger Flow Simulation 
+o Connected Fleeds & Logistics 
+• Utilities 
+o ERP Systeme in der Energiewirtschaft
+o Netzplanung - Datenhaltung
+o Regulierung
+o Smart Energy
+o Smart Grid
+• Industry Independent 
+o Vertrieb 
+• CRM Beratung und Implementierung
+• e-Commerce
+o Marketing 
+• Websites & Portale
+• Kreation & Design
+• Online Marketing
+• Marketing Automation 
+• Customer Data Hub/Customer Data Platform 
+o Unternehmensplanung & -Steuerung
+o IT-Organisation & -Steuerung 
+• Hosting & Application Management 
+• IT-ARCHITEKTUR & BUSINESS INTEGRATION 
+• IT-Prozesse und IT-Providermanagement 
+• IT Transformation & Agilisierung der Organisation 
+• Service & Security Management
+o E2E Digitalisierung Vertrieb/Service/Marketing 
+E2E Services
+• Business Consulting 
+o Prozess Management
+• Digital Transformation
+o Agile
+o Innovation Management
+o IT Strategy & Enterprise Architecture Consulting
+o Design Thinking
+o Interaction Room (IR)
+o Digitalisierungsstrategie 
+• Software Engineering 
+o Managed Services 
+• Application Management 
+• Hosting & Plattform Management 
+o Coding
+o DevOps
+o IT Consulting & Software Architecture
+o Projektmanagement
+o Quality Assurance
+o Requirements Engineering & Design
+
+
+
+
+Technologies
+• Java
+• Microsoft
+o Business Productivity
+o Cloud (Azure)
+o CRM (Dynamics)
+• SAP 
+o SAP BW/4HANA (Analytics)
+o SAP Custom Development & Integration
+o SAP Customer Experience
+o SAP S/4HANA (Modulberatung & Entwicklung)
+o SAP Technology Consulting
+• Salesforce
+• App-Entwicklung
+• KI 
+o Chatbots
+o Cognitive Services
+o Data Science & ML
+• Cloud
+• Data & Analytics 
+o Datengetriebene Services
+o Data & Analytics Platform
+o Self Service Analytics and BI
+o Big Data
+o Datenmanagement (DWH/Reporting)
+• Internet of Things 
+o Beratungsleistung IoT
+o Hardware, Gateways und Sensorik 
+o IoT-Cloud-Plattformen 
+• AR/VR
+• Blockchain
+Solutions
+• in|sure 
+• in|relation 
+• adesso banking solutions 
+• adesso financial platform 
+• FirstSpirit 
+• drebis 
+• Transformer 
+• MIGSuite 
+• com2m IoT-Platform 
+• LotteryForce 
+• KVAI PRO 
+• PBM - Personal Business Machine 
+• urban energy - der adesso Energy data hub 
+
