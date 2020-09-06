@@ -8,8 +8,10 @@ import java.util.Scanner;
 public class DocReader {
     public static void main(String[] args) throws IOException {
 
-        String path = "C:\\Users\\User\\IdeaProjects\\PortfolioVergleicher\\src\\main\\java\\files\\Inhaltsverzeichnis.txt";
-        String path2 = "C:\\Users\\User\\IdeaProjects\\PortfolioVergleicher\\src\\main\\java\\files\\Übersicht.txt";
+//        String path = "C:\\Users\\User\\IdeaProjects\\PortfolioVergleicher\\src\\main\\java\\files\\Inhaltsverzeichnis.txt";
+//        String path2 = "C:\\Users\\User\\IdeaProjects\\PortfolioVergleicher\\src\\main\\java\\files\\Übersicht.txt";
+        String path = "C:\\Users\\baraz\\IdeaProjects\\Portfolio-Abgleich\\src\\main\\java\\files\\Inhaltsverzeichnis.txt";
+        String path2 = "C:\\Users\\baraz\\IdeaProjects\\Portfolio-Abgleich\\src\\main\\java\\files\\Übersicht.txt";
 
         List<String> inputLoB = new ArrayList<String>();
         List<String> inputOneA = new ArrayList<String>();

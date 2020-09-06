@@ -5,10 +5,14 @@ import java.util.*;
 
 public class Titelanalyse {
 
-    public static String path = "C:\\Users\\User\\IdeaProjects\\PortfolioVergleicher\\src\\main\\java\\files\\LoB Insurance.txt";
-    public static String path2 = "C:\\Users\\User\\IdeaProjects\\PortfolioVergleicher\\src\\main\\java\\files\\One Adesso.txt";
-    public static String save = "C:\\Users\\User\\IdeaProjects\\PortfolioVergleicher\\src\\main\\java\\files\\Auswertung.csv";
-    public static String save2 = "C:\\Users\\User\\IdeaProjects\\PortfolioVergleicher\\src\\main\\java\\files\\Auswertung2.csv";
+    public static String path = "C:\\Users\\baraz\\IdeaProjects\\Portfolio-Abgleich\\src\\main\\java\\files\\LoB Insurance.txt";
+    public static String path2 = "C:\\Users\\baraz\\IdeaProjects\\Portfolio-Abgleich\\src\\main\\java\\files\\One Adesso.txt";
+    public static String save = "C:\\Users\\baraz\\IdeaProjects\\Portfolio-Abgleich\\src\\main\\java\\files\\Auswertung.csv";
+    public static String save2 = "C:\\Users\\baraz\\IdeaProjects\\Portfolio-Abgleich\\src\\main\\java\\files\\Auswertung2.csv";
+//    public static String path = "C:\\Users\\User\\IdeaProjects\\PortfolioVergleicher\\src\\main\\java\\files\\LoB Insurance.txt";
+//    public static String path2 = "C:\\Users\\User\\IdeaProjects\\PortfolioVergleicher\\src\\main\\java\\files\\One Adesso.txt";
+//    public static String save = "C:\\Users\\User\\IdeaProjects\\PortfolioVergleicher\\src\\main\\java\\files\\Auswertung.csv";
+//    public static String save2 = "C:\\Users\\User\\IdeaProjects\\PortfolioVergleicher\\src\\main\\java\\files\\Auswertung2.csv";
 
 
     public static ArrayList<String> lobInsuranceList = new ArrayList<String>();
@@ -46,7 +50,7 @@ public class Titelanalyse {
 
 
         // Suchoption für einzelne Worte im Titel
-/*        String[] taboo = {"im", "Ein", "die", "and", "of", "für", "alle", "for", "einen", "geben", "der", "das", "aus",
+        String[] taboo = {"im", "Ein", "die", "and", "of", "für", "alle", "for", "einen", "geben", "der", "das", "aus",
                 "und", "", "von", "muss", "neue", "gedacht", "werden", "zur", "or", "in", "&", "E", "|", "des"};
         for (String el: lobInsuranceList) {
             String[] splitup = el.split(" ");
@@ -75,17 +79,18 @@ public class Titelanalyse {
                     }
                 }
             }
-        }*/
+        }
 
 
         // Konsolenausgabe der Matches
-//       for (int i = 0; i < firstPickMatches.size(); i++) {
-//            System.out.println(firstPickMatches.get(i));
-//        }
-//
-//        for (int i = 0; i < matchesList.size(); i++) {
-//            System.out.println(matchesList.get(i));
-//        }
+/*
+        for (int i = 0; i < firstPickMatches.size(); i++) {
+            System.out.println(firstPickMatches.get(i));
+        }
+
+        for (int i = 0; i < matchesList.size(); i++) {
+            System.out.println(matchesList.get(i));
+        }
 
         String output = "";
         for (Map.Entry<String, ArrayList<String>> entry : hashMap.entrySet()) {
@@ -96,14 +101,14 @@ public class Titelanalyse {
             //System.out.println(entry.getKey() + entry.getValue().toString());
         }
         System.out.println(output);
-        System.out.println(hashMap.size());
+*/
 
 
         // Daten speichern
 
-/*        Methodensammlung.saveFile(firstPickMatches, save, false);
-        Methodensammlung.saveFile(matchesList, save, true);
-        Methodensammlung.saveFile2(hashMap, save2, false);*/
+//        Methodensammlung.saveFile(firstPickMatches, save, false);
+//        Methodensammlung.saveFile(matchesList, save, true);
+//        Methodensammlung.saveFile2(hashMap, save2, false);
 
 
 
