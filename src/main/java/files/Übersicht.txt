@@ -1,0 +1,145 @@
+﻿
+
+
+1. Automotive 
+1.1. Konnektivität
+1.2. Autonomes Fahren
+1.3. Mobilitätsservices
+1.4. E Mobility
+1.5. Embedded Security
+2. Banking 
+2.1. Digitaler Bankarbeitsplatz
+2.2. Firmenkundenportale
+2.3. Kreditprozesse
+2.4. Regulatorik
+2.5. Integration Layer & Bank-APIs
+3. Health | Life Sciences
+3.1. Life Sciences Regulatorik
+3.2. RPA & AS für GKV
+3.3. Service ChatBots
+3.4. Konzeption & Entwicklung von Medizintechnik Software & Apps
+3.5. Mobile Apps for Health
+4. Insurance 
+4.1. Vertriebsprozesse
+4.2. Schaden-/ Leistungsprozesse
+4.3. Betrugsmanagement
+4.4. Rückversicherungsprozesse
+4.5. BiPRO
+5. Lottery 
+5.1. Change Management & Veränderungsfähigkeit
+5.2. Mobile Apps
+5.3. Procurement Consulting
+5.4. Strategy Consulting
+6. Manufacturing Industry 
+6.1. Variantenmanagement
+6.2. Product to Service
+6.3. Digitaler Shopfloor
+6.4. Predictive Maintenance und Field Service
+6.5. Aftersales Services 4.0
+7. Public 
+7.1. eID - Elektronische Identität
+7.2. IT-Konsolidierung des Bundes
+7.3. Onlinezugangsgesetz (OZG)
+7.4. Technologie-/ Datenmigration in der öffentlichen Verwaltung
+8. Retail 
+8.1. Customer Data Hub
+8.2. Erlebnissteigerung
+8.3. Portale für eine einzigartige CEX
+8.4. Produktinformationen automatisieren
+8.5. Umsatzsteigerung durch B2B-Marktplätze
+9. Transportation & Logistic 
+9.1. Mobile Ticketing 
+9.2. Zuginformationssystem 
+9.3. Passenger Flow Simulation 
+9.4. Connected Fleeds & Logistics 
+10. Utilities 
+10.1. ERP Systeme in der Energiewirtschaft
+10.2. Netzplanung - Datenhaltung
+10.3. Regulierung
+10.4. Smart Energy
+10.5. Smart Grid
+11. Industry Independent 
+11.1. Vertrieb 
+11.1.1. CRM Beratung und Implementierung
+11.1.2. e-Commerce
+11.2. Marketing 
+11.2.1. Websites & Portale
+11.2.2. Kreation & Design
+11.2.3. Online Marketing
+11.2.4. Marketing Automation 
+11.2.5. Customer Data Hub/Customer Data Platform 
+11.3. Unternehmensplanung & -Steuerung
+11.4. IT-Organisation & -Steuerung 
+11.4.1. Hosting & Application Management 
+11.4.2. IT-ARCHITEKTUR & BUSINESS INTEGRATION 
+11.4.3. IT-Prozesse und IT-Providermanagement 
+11.4.4. IT Transformation & Agilisierung der Organisation 
+11.4.5. Service & Security Management
+11.5. E2E Digitalisierung Vertrieb/Service/Marketing 
+12. Business Consulting 
+12.1. Prozess Management
+13. Digital Transformation
+13.1. Agile
+13.2. Innovation Management
+13.3. IT Strategy & Enterprise Architecture Consulting
+13.4. Design Thinking
+13.5. Interaction Room (IR)
+13.6. Digitalisierungsstrategie 
+14. Software Engineering 
+14.1. Managed Services 
+14.1.1. Application Management 
+14.1.2. Hosting & Plattform Management 
+14.2. Coding
+14.3. DevOps
+14.4. IT Consulting & Software Architecture
+14.5. Projektmanagement
+14.6. Quality Assurance
+14.7. Requirements Engineering & Design
+
+
+
+
+15. Java
+16. Microsoft
+16.1. Business Productivity
+16.2. Cloud (Azure)
+16.3. CRM (Dynamics)
+17. SAP 
+17.1. SAP BW/4HANA (Analytics)
+17.2. SAP Custom Development & Integration
+17.3. SAP Customer Experience
+17.4. SAP S/4HANA (Modulberatung & Entwicklung)
+17.5. SAP Technology Consulting
+18. Salesforce
+19. App-Entwicklung
+20. KI 
+20.1. Chatbots
+20.2. Cognitive Services
+20.3. Data Science & ML
+21. Cloud
+22. Data & Analytics 
+22.1. Datengetriebene Services
+22.2. Data & Analytics Platform
+22.3. Self Service Analytics and BI
+22.4. Big Data
+22.5. Datenmanagement (DWH/Reporting)
+23. Internet of Things 
+23.1. Beratungsleistung IoT
+23.2. Hardware, Gateways und Sensorik 
+23.3. IoT-Cloud-Plattformen 
+24. AR/VR
+25. Blockchain
+26. in|sure 
+27. in|relation 
+28. adesso banking solutions 
+29. adesso financial platform 
+30. FirstSpirit 
+31. drebis 
+32. Transformer 
+33. MIGSuite 
+34. com2m IoT-Platform 
+35. LotteryForce 
+36. KVAI PRO 
+37. PBM - Personal Business Machine 
+38. urban energy - der adesso Energy data hub 
+

@@ -46,7 +46,7 @@ public class Titelanalyse {
 
 
         // Suchoption für einzelne Worte im Titel
-        String[] taboo = {"im", "Ein", "die", "and", "of", "für", "alle", "for", "einen", "geben", "der", "das", "aus",
+/*        String[] taboo = {"im", "Ein", "die", "and", "of", "für", "alle", "for", "einen", "geben", "der", "das", "aus",
                 "und", "", "von", "muss", "neue", "gedacht", "werden", "zur", "or", "in", "&", "E", "|", "des"};
         for (String el: lobInsuranceList) {
             String[] splitup = el.split(" ");
@@ -75,18 +75,17 @@ public class Titelanalyse {
                     }
                 }
             }
-        }
+        }*/
 
 
         // Konsolenausgabe der Matches
-/*
-        for (int i = 0; i < firstPickMatches.size(); i++) {
-            System.out.println(firstPickMatches.get(i));
-        }
-
-        for (int i = 0; i < matchesList.size(); i++) {
-            System.out.println(matchesList.get(i));
-        }
+//       for (int i = 0; i < firstPickMatches.size(); i++) {
+//            System.out.println(firstPickMatches.get(i));
+//        }
+//
+//        for (int i = 0; i < matchesList.size(); i++) {
+//            System.out.println(matchesList.get(i));
+//        }
 
         String output = "";
         for (Map.Entry<String, ArrayList<String>> entry : hashMap.entrySet()) {
@@ -97,14 +96,14 @@ public class Titelanalyse {
             //System.out.println(entry.getKey() + entry.getValue().toString());
         }
         System.out.println(output);
-*/
+        System.out.println(hashMap.size());
 
 
         // Daten speichern
 
-        Methodensammlung.saveFile(firstPickMatches, save, false);
+/*        Methodensammlung.saveFile(firstPickMatches, save, false);
         Methodensammlung.saveFile(matchesList, save, true);
-        Methodensammlung.saveFile2(hashMap, save2, false);
+        Methodensammlung.saveFile2(hashMap, save2, false);*/
 
 
 

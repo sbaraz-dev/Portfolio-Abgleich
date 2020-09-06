@@ -1,0 +1,151 @@
+﻿
+
+
+
+1. 
+1.1. Vertriebsprozesse 
+1.1.1. Omni Channel Management
+1.1.2. Digitale Kundenschnittstelle
+1.1.3. Digitale Firmenkundenschnittstelle
+1.1.4. Endkundenportale
+1.1.5. Firmenkundenportal
+1.1.6. Vertriebsportale / Maklerextranet
+1.1.7. Kampagnenmanagement
+1.1.8. Digitale Beratungs- und Verkaufsprozesse
+1.1.9. Maklerverwaltungsprogramm
+1.1.10. Customer Experience Management
+1.1.11. Customer Relationship Management (CRM)
+1.1.11.1. Broker Relationship Management (BRM)
+1.1.11.2. Any Relationship Management (xRM)
+1.1.12. Digitalisierung Bankenkooperation
+1.1.13. Mobiler Außendienst-Assistent (Prototyp)
+1.1.14. Insurance Distribution Directive
+1.1.15. Predictive Marketing
+1.1.16. Wertorientierte Vertriebssteuerung
+1.2. Risikoprüfung
+1.2.1. Risikoprüfung (Personenversicherung)
+1.3. Bestandsprozesse
+1.3.1. Bestandsmigration
+1.3.2. Betriebliche Altersversorgung (bAV)
+1.3.3. Cyberrisiken
+1.3.4. Kurzzeitversicherungen
+1.3.5. Digitale Signatur
+1.3.6. Versicherungsaufsichtlichen Anforderunen an die IT (VAIT)
+1.3.7. Datenportabilität 
+1.3.8. ITIL
+1.3.9. In/Exkasso
+1.4. Schaden-/ Leistungsprozesse
+1.4.1. Schaden-/ Leistungsmanagement
+1.4.2. Digitaler Schadensprozess
+1.4.3. Fraud Detection
+1.4.4. Schadenregulierung
+1.4.5. (BU-) Leistungsbearbeitung
+1.5. Rückversicherungsprozesse
+1.5.1. Portale zur Übermittlung und Bearbeitung von Angeboten
+1.5.2. Passive Rückversicherung
+1.5.3. Prozessoptimierung Underwriting
+1.6. Organisationsmanagement
+1.6.1. Business Transformation
+1.6.2. Change Management
+1.6.3. Geschäftsprozessanalyse
+2. 
+2.1. Digitale Transformation
+2.1.1. Digital Mastery (Digital Readiness Check)
+2.2. Data Science 
+2.2.1. Data Science/Künstliche Intelligenz
+2.3. Automatisierung
+2.3.1. Blockchain
+2.3.2. Chatbot
+2.3.2.1. Chatbot Wings App (Prototyp)
+2.3.3. Robotic Process Automation
+2.3.4. BiPRO
+2.4. IT-Consulting
+2.4.1. DevOps
+2.4.2. Digital Identity Management (Authentifizierung, Identifizierung)
+2.4.3. IT-Betrieb und -Hosting
+2.4.4. Lean Startup (Minimum Viable Product)
+2.4.5. Make or Buy-Studien
+2.4.6. System-, Komponenten- und Anbieterauswahl-Studien
+2.4.7. Security Management
+2.4.8. IT-Providermanagement
+2.4.9. IT Assessment
+2.4.10. Design for Operation
+2.4.11. Business Integration
+2.4.12. PSD2
+2.5. International Financial Reporting Standards (IFRS)
+2.5.1. IFRS17
+3. 
+3.1. Forschung & Entwicklung
+3.1.1. Smart Home (IoT)
+3.1.2. Augmented Reality
+3.1.3. Virtual Reality
+3.1.4. Machine-/ Deep Learning
+3.1.5. Versicherungsvertrieb der Zukunft
+3.1.6. Dokumentenanalyse
+3.2. Zusammenarbeit mit Startups
+3.2.1. Venture Capital
+3.2.2. Innolab
+3.2.3. Marktanalyse InsurTechs
+4. 
+4.1. in|sure Ecosphere
+4.2. MIGSuite
+4.3. in|RELATION Customer Relationship Management
+4.4. in|RELATION Distributor-Relationship-Management
+4.5. Aisaac
+4.6. Drebis
+5. 
+5.1. First Spirit
+5.2. adesso transformer
+
+5.3. Haupia
+5.4. com2m IoT Plattform
+5.5. PBM - Personal Business Machine
+5.5.1. Partnerschaften
+
+
+6. 
+6.1. Agile Transformation
+6.1.1. Agile Portfolio
+6.1.2. Agile Onboarding
+6.1.3. Agiles Business Development
+6.2. Projektmanagement
+6.2.1. Pragmatisches IT Projektmanagement
+6.2.2. Projektmanagement-Office (PMO)
+6.2.3. adVANTAGE
+6.2.4. Release Management
+6.2.4.1. Einführungsmanagement (Cutover Management)
+6.3. Test-/ Qualitätsmanagement
+6.3.1. Testautomatisierung
+6.4. Architekturen
+6.4.1. Fach-Architekturmanagement
+6.4.2. IT-Architekturmanagement
+6.4.3. Business Intelligence and Analytics
+6.4.4. Cloud/ Cloudmanagement
+6.4.5. Technologie-Radar
+6.5. Business Process Management
+6.5.1. Process Mining
+6.5.2. Prozess Automatisierung
+6.6. Application Management
+6.7. Smartshore Bulgarien / Spanien / Türkei
+7. 
+7.1. Software Engineering 
+7.1.1. Software-Engineering
+7.1.2. Java
+7.1.3. Frontend Technologien 
+7.1.4. Microsoft.net
+7.1.5. Cobolt 
+7.1.6. Backend Technologien
+7.2. Requirements Engineering
+7.2.1. Requirements-Engineering
+7.2.2. Digital Design
+7.3. Software-Integration
+7.4. Grafik/ Design/ Kreation
+8. 
+8.1. Design Thinking
+8.2. Interaction Room
+8.3. CX Workshop
+8.4. Customer Journey
+8.5. Neuromarketing
+
+
+

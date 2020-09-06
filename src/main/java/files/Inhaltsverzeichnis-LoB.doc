@@ -1,0 +1,776 @@
+Date: Wed, 2 Sep 2020 16:31:48 +0200 (CEST)
+Message-ID: <525605518.4732.1599057108246@confluence.adesso.de>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_4731_364916863.1599057108245"
+
+------=_Part_4731_364916863.1599057108245
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Inhaltsverzeichnis</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Inhaltsverzeichnis</h1>
+    <div class=3D"Section1">
+        <div class=3D"contentLayout2">=20
+<div class=3D"columnLayout three-equal" data-layout=3D"three-equal">=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<p><br></p>
+</div>=20
+</div>=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<p><br></p>
+</div>=20
+</div>=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<p><br></p>
+</div>=20
+</div>=20
+</div>=20
+<div class=3D"columnLayout three-equal" data-layout=3D"three-equal">=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<h1 id=3D"Inhaltsverzeichnis-Prozesse"><strong><span style=3D"color: rgb(12=
+8,0,0);"><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Prozes=
+se" rel=3D"nofollow"><span style=3D"color: rgb(128,0,0);">Prozesse</span></=
+a></span></strong></h1>
+<h2 style=3D"margin-left: 30.0px;" id=3D"Inhaltsverzeichnis-DigitaleGesch=
+=C3=A4ftsmodelle"><span style=3D"color: rgb(51,51,0);"><a href=3D"https://c=
+onfluence.adesso.de/pages/viewpage.action?pageId=3D41652831" rel=3D"nofollo=
+w"><span style=3D"color: rgb(51,51,0);">Digitale Gesch=C3=A4ftsmodelle</spa=
+n></a></span></h2>
+<ul>
+<li style=3D"list-style-type: none;background-image: none;">
+<ul>
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Vertriebspr=
+ozesse" rel=3D"nofollow">Vertriebsprozesse</a>
+<ul>
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Omni+Channe=
+l+Management" rel=3D"nofollow">Omni Chann</a><a href=3D"https://confluence.=
+adesso.de/display/LIPORTFOLIO/Omni+Channel+Management" rel=3D"nofollow">el =
+Management</a></li>
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Digitale+Ku=
+ndenschnittstelle" rel=3D"nofollow">Digitale Kundenschnittstelle</a></li>
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Digitale+Fi=
+rmenkundenschnittstelle" rel=3D"nofollow">Digitale Firmenkundenschnittstell=
+e</a></li>
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Endkundenpo=
+rtale" rel=3D"nofollow">Endkundenportale</a></li>
+<li><p class=3D"with-breadcrumbs"><a style=3D"text-decoration: none;" href=
+=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Firmenkundenportal" re=
+l=3D"nofollow">Firmenkundenportal</a></p></li>
+<li><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=3D=
+41652260" rel=3D"nofollow">Vertriebsportale / Maklerextranet</a></li>
+<li><p class=3D"with-breadcrumbs"><a href=3D"https://confluence.adesso.de/d=
+isplay/LIPORTFOLIO/Kampagnenmanagement" style=3D"text-decoration: none;" re=
+l=3D"nofollow">Kampagnenmanagement</a></p></li>
+<li><p class=3D"with-breadcrumbs"><a style=3D"text-decoration: none;" href=
+=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Digitale+Beratungs-+un=
+d+Verkaufsprozesse" rel=3D"nofollow">Digitale Beratungs- und Verkaufsprozes=
+se</a></p></li>
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Maklerverwa=
+ltungsprogramm" rel=3D"nofollow">Maklerverwaltungsprogramm</a></li>
+<li><span style=3D"color: rgb(51,51,0);"><span style=3D"color: rgb(51,51,0)=
+;"><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Customer+Exp=
+erience" rel=3D"nofollow">Customer Experience</a><a href=3D"https://conflue=
+nce.adesso.de/display/LIPORTFOLIO/Customer+Experience+Management" rel=3D"no=
+follow">&nbsp;Management</a></span></span></li>
+<li><p class=3D"with-breadcrumbs"><a style=3D"text-decoration: none;" href=
+=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=3D184856283" =
+rel=3D"nofollow">Customer Relationship Management (CRM)</a></p>
+<ul>
+<li><p class=3D"with-breadcrumbs"><a style=3D"text-decoration: none;" href=
+=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=3D196211154" =
+rel=3D"nofollow">Broker Relationship Management (BRM)</a></p></li>
+</ul></li>
+<li><p><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=
+=3D184856283" rel=3D"nofollow">Digitalisierung Bankenkooperation</a></p></l=
+i>
+<li><p><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=
+=3D37255345" rel=3D"nofollow">Mobiler Au=C3=9Fendienst-Assistent</a> (Proto=
+typ)</p></li>
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Insurance+D=
+istribution+Directive" rel=3D"nofollow">Insurance Distribution Directive</a=
+></li>
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Predictive+=
+Marketing" rel=3D"nofollow">Predictive Marketing</a></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Wertorie=
+ntierte+Vertriebssteuerung?src=3Dcontextnavpagetreemode" rel=3D"nofollow">W=
+ertorientierte Vertriebssteuerung</a></p></li>
+</ul></li>
+<li><p><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=
+=3D41652851" rel=3D"nofollow">Risikopr=C3=BCfung</a></p>
+<ul>
+<li><p><a rel=3D"nofollow" href=3D"https://confluence.adesso.de/pages/viewp=
+age.action?pageId=3D41652207&amp;src=3Dcontextnavpagetreemode">Risikopr</a>=
+<a rel=3D"nofollow" href=3D"https://confluence.adesso.de/pages/viewpage.act=
+ion?pageId=3D41652207&amp;src=3Dcontextnavpagetreemode">=C3=BC</a><a rel=3D=
+"nofollow" href=3D"https://confluence.adesso.de/pages/viewpage.action?pageI=
+d=3D41652207&amp;src=3Dcontextnavpagetreemode">fung</a><a href=3D"https://c=
+onfluence.adesso.de/pages/viewpage.action?pageId=3D41652207" rel=3D"nofollo=
+w"> (Personenversicherung)</a></p></li>
+</ul></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Bestands=
+prozesse" rel=3D"nofollow">Bestandsprozesse</a></p>
+<ul>
+<li><p><a rel=3D"nofollow" href=3D"https://confluence.adesso.de/display/LIP=
+ORTFOLIO/Bestandsmigration?src=3Dcontextnavpagetreemode">Bestandsmigration<=
+/a></p></li>
+<li><p class=3D"with-breadcrumbs"><a href=3D"https://confluence.adesso.de/p=
+ages/viewpage.action?pageId=3D93292289" style=3D"text-decoration: none;" re=
+l=3D"nofollow">Betriebliche Altersversorgung (bAV)</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Cyberris=
+iken" rel=3D"nofollow">Cyberrisiken</a></p></li>
+<li><p class=3D"with-breadcrumbs"><a href=3D"https://confluence.adesso.de/d=
+isplay/LIPORTFOLIO/Kurzzeitversicherungen" style=3D"text-decoration: none;"=
+ rel=3D"nofollow">Kurzzeitversicherungen</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Digitale=
++Signatur" rel=3D"nofollow">Digitale Signatur</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=
+=3D41652292&amp;src=3Dcontextnavpagetreemode" rel=3D"nofollow">Versicherung=
+saufsichtlichen Anforderunen an die IT (VAIT)</a></p></li>
+<li><p><a rel=3D"nofollow" href=3D"https://confluence.adesso.de/pages/viewp=
+age.action?pageId=3D41652292&amp;src=3Dcontextnavpagetreemode">D</a><a href=
+=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=3D37254866" r=
+el=3D"nofollow">atenportabilit=C3=A4t</a>&nbsp;<span style=3D"color: rgb(51=
+,51,0);"><br></span></p></li>
+<li><p class=3D"with-breadcrumbs"><a href=3D"https://confluence.adesso.de/d=
+isplay/LIPORTFOLIO/ITIL" style=3D"text-decoration: none;" rel=3D"nofollow">=
+ITIL</a></p></li>
+<li><p class=3D"with-breadcrumbs"><a href=3D"https://confluence.adesso.de/p=
+ages/viewpage.action?pageId=3D171052260" style=3D"text-decoration: none;" r=
+el=3D"nofollow">In/Exkasso</a></p></li>
+</ul></li>
+<li><p><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=
+=3D41652845" rel=3D"nofollow">Schaden-/ Leistungsprozesse</a></p>
+<ul>
+<li><p class=3D"with-breadcrumbs"><a href=3D"https://confluence.adesso.de/p=
+ages/viewpage.action?pageId=3D41652210" style=3D"text-decoration: none;" re=
+l=3D"nofollow">Schaden-/ Leistungsmanagement</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Digitale=
+r+Schadensprozess" rel=3D"nofollow">Digitaler Schadensprozess</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Fraud+De=
+tection" rel=3D"nofollow">Fraud Detection</a></p></li>
+<li><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=3D=
+41652028" rel=3D"nofollow">Schadenregulierung</a></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/%28BU-%2=
+9+Leistungsbearbeitung" rel=3D"nofollow">(BU-) Leistungsbearbeitung</a></p>=
+</li>
+</ul></li>
+<li><p><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=
+=3D41652847" rel=3D"nofollow">R=C3=BCckversicherungsprozesse</a></p>
+<ul>
+<li><p><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=
+=3D41652192" rel=3D"nofollow">Portale zur =C3=9Cbermittlung und Bearbeitung=
+ von Angeboten</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=
+=3D41652189" rel=3D"nofollow">Passive R=C3=BCckversicherung</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Prozesso=
+ptimierung+Underwriting" rel=3D"nofollow">Prozessoptimierung Underwriting</=
+a></p></li>
+</ul></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Organisa=
+tionsmanagement" rel=3D"nofollow">Organisationsmanagement</a></p>
+<ul>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Business=
++Transformation" rel=3D"nofollow">Business Transformation</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Change+M=
+anagement" rel=3D"nofollow">Change Management</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=
+=3D41652018" rel=3D"nofollow">Gesch=C3=A4ftsprozessanalyse</a></p></li>
+</ul></li>
+</ul></li>
+</ul>
+<h2 style=3D"margin-left: 30.0px;" id=3D"Inhaltsverzeichnis-Technologischer=
+Wandel"><span style=3D"color: rgb(51,51,0);"><a href=3D"https://confluence.=
+adesso.de/display/LIPORTFOLIO/Technologischer+Wandel" rel=3D"nofollow"><spa=
+n style=3D"color: rgb(51,51,0);">Technologischer Wandel</span></a></span></=
+h2>
+<ul>
+<li style=3D"list-style-type: none;background-image: none;">
+<ul>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Digitale=
++Transformation" rel=3D"nofollow">Digitale Transformation</a></p>
+<ul>
+<li><p><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=
+=3D41651974" rel=3D"nofollow">Digital Mastery</a> <a href=3D"https://conflu=
+ence.adesso.de/pages/viewpage.action?pageId=3D41651974" rel=3D"nofollow">(D=
+igital Readiness Check)</a></p></li>
+</ul></li>
+<li>Data Science
+<ul>
+<li><p class=3D"with-breadcrumbs"><span style=3D"color: rgb(0,51,0);"><a hr=
+ef=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=3D148189059=
+" style=3D"text-decoration: none;color: rgb(0,51,0);" rel=3D"nofollow">Data=
+ Science/K=C3=BCnstliche Intelligenz</a></span></p></li>
+</ul></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Automati=
+sierung" rel=3D"nofollow">Automatisierung</a></p>
+<ul>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Blockcha=
+in" rel=3D"nofollow">Blockchain</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Chatbot"=
+ rel=3D"nofollow">Chatbot</a></p>
+<ul>
+<li><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=3D=
+37254044" rel=3D"nofollow">Chatbot Wings App</a>&nbsp;(Prototyp)</li>
+</ul></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Robotic+=
+Process+Automation" rel=3D"nofollow">Robotic Process Automation</a></p></li=
+>
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/BiPRO" rel=
+=3D"nofollow">BiPRO</a></li>
+</ul></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/IT-Consu=
+lting" rel=3D"nofollow">IT-Consulting</a></p>
+<ul>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/DevOps" =
+rel=3D"nofollow">DevOps</a></p></li>
+<li><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=3D=
+41667889" rel=3D"nofollow">Digital Identity Management (Authentifizierung, =
+Identifizierung)</a></li>
+<li><p class=3D"with-breadcrumbs"><a href=3D"https://confluence.adesso.de/d=
+isplay/LIPORTFOLIO/IT-Betrieb+und+-Hosting" style=3D"text-decoration: none;=
+" rel=3D"nofollow">IT-Betrieb und -Hosting</a><span style=3D"color: rgb(51,=
+51,0);"><br></span></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=
+=3D41667908" rel=3D"nofollow">Lean Startup (Minimum Viable Product)</a></p>=
+</li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Make+or+=
+Buy-Studien" rel=3D"nofollow">Make or Buy-Studien</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/System-%=
+2C+Komponenten-+und+Anbieterauswahl-Studien" rel=3D"nofollow">System-, Komp=
+onenten- und </a><a href=3D"https://confluence.adesso.de/display/LIPORTFOLI=
+O/System-%2C+Komponenten-+und+Anbieterauswahl-Studien" rel=3D"nofollow">Anb=
+ieterauswahl-Studien</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Security=
++Management" rel=3D"nofollow">Security Management</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/IT-Provi=
+dermanagement" rel=3D"nofollow">IT-Providermanagement</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/IT+Asses=
+sment" rel=3D"nofollow">IT Assessment</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Design+f=
+or+Operation" rel=3D"nofollow">Design for Operat</a><a href=3D"https://conf=
+luence.adesso.de/display/LIPORTFOLIO/Design+for+Operation" rel=3D"nofollow"=
+>ion</a></p></li>
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Business+In=
+tegration" rel=3D"nofollow">Business Integration</a><span style=3D"color: r=
+gb(51,51,0);"><span style=3D"color: rgb(51,51,0);"><br></span></span></li>
+<li><p class=3D"with-breadcrumbs"><a style=3D"text-decoration: none;" href=
+=3D"https://confluence.adesso.de/display/LIPORTFOLIO/PSD2" rel=3D"nofollow"=
+>PSD2</a></p></li>
+</ul></li>
+<li><p class=3D"with-breadcrumbs"><a style=3D"text-decoration: none;" href=
+=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=3D171053161" =
+rel=3D"nofollow">International Financial Reporting Standards (IFRS)</a></p>
+<ul>
+<li><p class=3D"with-breadcrumbs"><a style=3D"text-decoration: none;" href=
+=3D"https://confluence.adesso.de/display/LIPORTFOLIO/IFRS17" rel=3D"nofollo=
+w">IFRS17</a></p></li>
+</ul></li>
+</ul></li>
+</ul>
+<h2 style=3D"margin-left: 30.0px;" id=3D"Inhaltsverzeichnis-BusinessDevelop=
+ment"><span style=3D"color: rgb(51,51,0);"><a href=3D"https://confluence.ad=
+esso.de/display/LIPORTFOLIO/Business+Development" rel=3D"nofollow"><span st=
+yle=3D"color: rgb(51,51,0);">Business Development</span></a></span></h2>
+<ul>
+<li style=3D"list-style-type: none;background-image: none;">
+<ul>
+<li><p><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=
+=3D41652861" rel=3D"nofollow">Forschung &amp; Entwicklung</a></p>
+<ul>
+<li><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=3D=
+41667815" rel=3D"nofollow">Smart Home</a> (IoT)</li>
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Augmented+R=
+eality" rel=3D"nofollow">Augmented Reality</a></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Virtual+=
+Reality" rel=3D"nofollow">Virtual Reality</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=
+=3D37255316" rel=3D"nofollow">Machine-/ Deep Learning</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Versiche=
+rungsvertrieb+der+Zukunft" rel=3D"nofollow">Versicherungsvertrieb der Zukun=
+ft</a></p></li>
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Dokumentena=
+nalyse" rel=3D"nofollow">Dokumentenanalyse</a></li>
+</ul></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Zusammen=
+arbeit+mit+Startups" rel=3D"nofollow">Zusammenarbeit mit Startups</a></p>
+<ul>
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Venture+Cap=
+ital" rel=3D"nofollow">Venture Capital</a></li>
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Innolab" re=
+l=3D"nofollow">Innolab</a></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Marktana=
+lyse+InsurTechs" rel=3D"nofollow">Marktanalyse InsurTechs</a></p></li>
+</ul></li>
+</ul><span style=3D"color: rgb(0,51,0);"><span style=3D"color: rgb(0,51,0);=
+"><br></span></span></li>
+</ul>
+</div>=20
+</div>=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<h1 id=3D"Inhaltsverzeichnis-Produkte"><span style=3D"color: rgb(128,128,0)=
+;"><strong><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Prod=
+ukte" rel=3D"nofollow"><span style=3D"color: rgb(128,128,0);">Produkte</spa=
+n></a></strong></span></h1>
+<h2 style=3D"margin-left: 30.0px;" id=3D"Inhaltsverzeichnis-Versicherungssp=
+ezifisch"><span style=3D"color: rgb(51,51,0);"><a href=3D"https://confluenc=
+e.adesso.de/display/LIPORTFOLIO/Versicherungsspezifisch" rel=3D"nofollow"><=
+span style=3D"color: rgb(51,51,0);">Versicherungsspezifisch</span></a></spa=
+n></h2>
+<ul>
+<li style=3D"list-style-type: none;background-image: none;">
+<ul>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/in%7Csur=
+e" rel=3D"nofollow">in|sure</a><a href=3D"https://confluence.adesso.de/x/iM=
+17Ag" rel=3D"nofollow">&nbsp;Ecosphere</a></p></li>
+<li><p><a rel=3D"nofollow" href=3D"https://confluence.adesso.de/display/LIP=
+ORTFOLIO/MIGSuite?src=3Dcontextnavpagetreemode">MIGSuite</a></p></li>
+<li><p><a rel=3D"nofollow" href=3D"https://confluence.adesso.de/display/LIP=
+ORTFOLIO/in%7CRELATION+Customer+Relationship+Management?src=3Dcontextnavpag=
+etreemode">in|RELATION Customer Relationship Management</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/in%7CREL=
+ATION+Distributor-Relationship-Management" rel=3D"nofollow">in|RELATION Dis=
+tributor-Relationship-Management</a></p></li>
+<li><p class=3D"with-breadcrumbs"><a href=3D"https://confluence.adesso.de/d=
+isplay/LIPORTFOLIO/Aisaac" rel=3D"nofollow">Aisaac</a></p></li>
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Drebis" rel=
+=3D"nofollow">Drebis</a><span style=3D"color: rgb(51,51,0);"><br></span></l=
+i>
+</ul></li>
+</ul>
+<h2 style=3D"margin-left: 30.0px;" id=3D"Inhaltsverzeichnis-Branchen=C3=BCb=
+ergreifend"><span style=3D"color: rgb(51,51,0);"><a href=3D"https://conflue=
+nce.adesso.de/pages/viewpage.action?pageId=3D41652867" rel=3D"nofollow"><sp=
+an style=3D"color: rgb(51,51,0);">Branchen=C3=BCbergreifend</span></a></spa=
+n></h2>
+<ul>
+<li style=3D"list-style-type: none;background-image: none;">
+<ul>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/First+Sp=
+irit" rel=3D"nofollow">First Spirit</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/adesso+t=
+ransformer" rel=3D"nofollow">adesso transformer</a><a href=3D"https://confl=
+uence.adesso.de/display/LIPORTFOLIO/First+Spirit" rel=3D"nofollow"><br></a>=
+</p></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Haupia" =
+rel=3D"nofollow">Haupia</a></p></li>
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/com2m+IoT+P=
+lattform?src=3Dcontextnavpagetreemode" rel=3D"nofollow">com2m IoT Plattform=
+</a></li>
+<li><p class=3D"with-breadcrumbs"><a style=3D"text-decoration: none;" href=
+=3D"https://confluence.adesso.de/display/LIPORTFOLIO/PBM+-+Personal+Busines=
+s+Machine" rel=3D"nofollow">PBM - Personal Business Machine</a></p></li>
+</ul></li>
+</ul>
+<h2 class=3D"with-breadcrumbs" style=3D"text-align: left;margin-left: 30.0p=
+x;" id=3D"Inhaltsverzeichnis-Partnerschaften"><span style=3D"color: rgb(51,=
+51,0);"><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageI=
+d=3D54292439" rel=3D"nofollow"><span style=3D"color: rgb(51,51,0);">Partner=
+schaften</span></a></span></h2>
+<p><br></p>
+<p><br></p>
+</div>=20
+</div>=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<h1 id=3D"Inhaltsverzeichnis-Projekte"><strong><span style=3D"color: rgb(0,=
+128,128);"><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Proj=
+ekte" rel=3D"nofollow"><span style=3D"color: rgb(0,128,128);">Projekte</spa=
+n></a></span></strong></h1>
+<h2 style=3D"margin-left: 30.0px;" id=3D"Inhaltsverzeichnis-Management"><sp=
+an style=3D"color: rgb(51,51,0);"><a href=3D"https://confluence.adesso.de/d=
+isplay/LIPORTFOLIO/Management" rel=3D"nofollow"><span style=3D"color: rgb(5=
+1,51,0);">Management</span></a></span></h2>
+<ul>
+<li>
+<ul>
+<li><p class=3D"_mce_tagged_br"><a href=3D"https://confluence.adesso.de/dis=
+play/LIPORTFOLIO/Agile+Transformation" rel=3D"nofollow">Agile Transformatio=
+n</a></p>
+<ul>
+<li><p class=3D"with-breadcrumbs"><a href=3D"https://confluence.adesso.de/d=
+isplay/LIPORTFOLIO/Agile+Portfolio" rel=3D"nofollow">Agile Portfolio</a></p=
+></li>
+<li><p class=3D"with-breadcrumbs"><a href=3D"https://confluence.adesso.de/d=
+isplay/LIPORTFOLIO/Agile+Onboarding" rel=3D"nofollow">Agile Onboarding</a><=
+/p></li>
+<li><p class=3D"_mce_tagged_br"><a href=3D"https://confluence.adesso.de/dis=
+play/LIPORTFOLIO/Agiles+Business+Development" rel=3D"nofollow">Agiles Busin=
+ess Development</a></p></li>
+</ul></li>
+<li><p class=3D"_mce_tagged_br"><a href=3D"https://confluence.adesso.de/dis=
+play/LIPORTFOLIO/Projektmanagement" rel=3D"nofollow">Projektmanagement</a><=
+/p>
+<ul>
+<li><p class=3D"_mce_tagged_br"><a href=3D"https://confluence.adesso.de/dis=
+play/LIPORTFOLIO/Pragmatisches+IT+Projektmanagement" rel=3D"nofollow">Pragm=
+atisches IT Projektmanagement</a></p></li>
+<li><p class=3D"_mce_tagged_br"><a href=3D"https://confluence.adesso.de/pag=
+es/viewpage.action?pageId=3D41652313" rel=3D"nofollow">Projektmanagement-Of=
+fice (PMO)</a></p></li>
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/adVANTAGE" =
+rel=3D"nofollow">adVANTAGE</a></li>
+<li><p class=3D"with-breadcrumbs"><a href=3D"https://confluence.adesso.de/d=
+isplay/LIPORTFOLIO/Release+Management" rel=3D"nofollow">Release Management<=
+/a></p>
+<ul>
+<li><p class=3D"with-breadcrumbs"><a href=3D"https://confluence.adesso.de/p=
+ages/viewpage.action?pageId=3D192000380" rel=3D"nofollow">Einf=C3=BChrungsm=
+anagement (Cutover Management)</a></p></li>
+</ul></li>
+</ul></li>
+<li><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=3D=
+41669573" rel=3D"nofollow">Test-/ Qualit=C3=A4tsmanagement</a><br>
+<ul class=3D"plugin_pagetree_children_list">
+<li><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Testautomat=
+isierung?src=3Dcontextnavpagetreemode" rel=3D"nofollow">Testautomatisierung=
+</a></li>
+</ul></li>
+<li><p class=3D"_mce_tagged_br"><a href=3D"https://confluence.adesso.de/dis=
+play/LIPORTFOLIO/Architekturen" rel=3D"nofollow">Architekturen</a></p>
+<ul>
+<li><p class=3D"_mce_tagged_br"><a href=3D"https://confluence.adesso.de/dis=
+play/LIPORTFOLIO/Fach-Architekturmanagement" rel=3D"nofollow">Fach-Architek=
+turmanagement</a></p></li>
+<li><p class=3D"_mce_tagged_br"><a href=3D"https://confluence.adesso.de/dis=
+play/LIPORTFOLIO/IT-Architekturmanagement" rel=3D"nofollow">IT-Architekturm=
+anagement</a></p></li>
+<li><p class=3D"_mce_tagged_br"><a href=3D"https://confluence.adesso.de/dis=
+play/LIPORTFOLIO/Business+Intelligence+and+Analytics" rel=3D"nofollow">Busi=
+ness Intelligence</a>&nbsp;and Analytics</p></li>
+<li><p class=3D"_mce_tagged_br"><a href=3D"https://confluence.adesso.de/pag=
+es/viewpage.action?pageId=3D41669545" rel=3D"nofollow">Cloud/ Cloudmanageme=
+nt</a></p></li>
+<li><p class=3D"_mce_tagged_br"><a href=3D"/display/LIPORTFOLIO/Technologie=
+-Radar">Technologie-Radar</a></p></li>
+</ul></li>
+<li><p class=3D"with-breadcrumbs"><a href=3D"https://confluence.adesso.de/d=
+isplay/LIPORTFOLIO/Business+Process+Management" rel=3D"nofollow">Business P=
+rocess Management</a></p>
+<ul>
+<li><p class=3D"with-breadcrumbs"><a href=3D"https://confluence.adesso.de/d=
+isplay/LIPORTFOLIO/Process+Mining" rel=3D"nofollow">Process Mining</a></p><=
+/li>
+<li><p class=3D"with-breadcrumbs"><a href=3D"https://confluence.adesso.de/d=
+isplay/LIPORTFOLIO/Prozess+Automatisierung" rel=3D"nofollow">Prozess Automa=
+tisierung</a></p></li>
+</ul></li>
+<li><p><a href=3D"https://confluence.adesso.de/display/LIPORTFOLIO/Applicat=
+ion+Management" rel=3D"nofollow">Application Management</a></p></li>
+<li><p><a href=3D"https://confluence.adesso.de/pages/viewpage.action?pageId=
+=3D41669580" rel=3D"nofollow">Smartshore Bulgarien</a><a href=3D"https://co=
+nfluence.adesso.de/x/zNN7Ag" rel=3D"nofollow">&nbsp;/ Spanien / T=C3=BCrkei=
+</a></p></li>
+</ul></li>
+</ul>
+<h2 class=3D"_mce_tagged_br" style=3D"margin-left: 30.0px;" id=3D"Inhaltsve=
+rzeichnis-Operativ"><span style=3D"color: rgb(51,51,0);"><a href=3D"https:/=
+/confluence.adesso.de/display/LIPORTFOLIO/Operativ" rel=3D"nofollow"><span =
+style=3D"color: rgb(51,51,0);">Operativ</span></a></span></h2>
+<ul>
+<li style=3D"list-style-type: none;background-image: none;">
+<ul>
+<li class=3D"_mce_tagged_br"><a href=3D"https://confluence.adesso.de/pages/=
+viewpage.action?pageId=3D41652885" rel=3D"nofollow">Software Engineering</a=
+>
+<ul>
+<li class=3D"_mce_tagged_br"><p class=3D"_mce_tagged_br"><a href=3D"https:/=
+/confluence.adesso.de/display/LIPORTFOLIO/Software-Engineering" rel=3D"nofo=
+llow">Software-Engineering</a></p></li>
+<li class=3D"_mce_tagged_br"><p class=3D"_mce_tagged_br"><a href=3D"https:/=
+/confluence.adesso.de/display/LIPORTFOLIO/Java" rel=3D"nofollow">Java</a></=
+p></li>
+<li class=3D"_mce_tagged_br"><p class=3D"_mce_tagged_br"><a href=3D"https:/=
+/confluence.adesso.de/display/LIPORTFOLIO/Front+End+Technologien?src=3Dcont=
+extnavpagetreemode" rel=3D"nofollow">Frontend Technologien</a>&nbsp;</p></l=
+i>
+<li class=3D"_mce_tagged_br"><p class=3D"_mce_tagged_br"><a href=3D"https:/=
+/confluence.adesso.de/display/LIPORTFOLIO/Microsoft.net" rel=3D"nofollow">M=
+icrosoft.net</a></p></li>
+<li class=3D"_mce_tagged_br"><p class=3D"_mce_tagged_br"><a href=3D"https:/=
+/confluence.adesso.de/display/LIPORTFOLIO/Cobolt?src=3Dcontextnavpagetreemo=
+de" rel=3D"nofollow">Cobolt</a>&nbsp;</p></li>
+<li class=3D"_mce_tagged_br"><p class=3D"_mce_tagged_br"><a href=3D"https:/=
+/confluence.adesso.de/display/LIPORTFOLIO/Back+End+Technology?src=3Dcontext=
+navpagetreemode" rel=3D"nofollow">Backend Technolog</a>ien</p></li>
+</ul></li>
+<li class=3D"_mce_tagged_br"><p class=3D"_mce_tagged_br"><a href=3D"https:/=
+/confluence.adesso.de/display/LIPORTFOLIO/Requirements+Engineering" rel=3D"=
+nofollow">Requirements Engineering</a></p>
+<ul>
+<li class=3D"_mce_tagged_br"><p class=3D"_mce_tagged_br"><a href=3D"https:/=
+/confluence.adesso.de/display/LIPORTFOLIO/Requirements-Engineering" rel=3D"=
+nofollow">Requirements-Engineering</a></p></li>
+<li class=3D"_mce_tagged_br"><p class=3D"with-breadcrumbs"><a href=3D"https=
+://confluence.adesso.de/display/LIPORTFOLIO/Digital+Design" rel=3D"nofollow=
+">Digital Design</a></p></li>
+</ul></li>
+<li class=3D"_mce_tagged_br"><p class=3D"_mce_tagged_br"><a href=3D"https:/=
+/confluence.adesso.de/display/LIPORTFOLIO/Software-Integration" rel=3D"nofo=
+llow">Software-Integration</a></p></li>
+<li class=3D"_mce_tagged_br"><p class=3D"with-breadcrumbs"><a href=3D"https=
+://confluence.adesso.de/pages/viewpage.action?pageId=3D202676165" style=3D"=
+text-decoration: none;" rel=3D"nofollow">Grafik/ Design/ Kreation</a></p></=
+li>
+</ul></li>
+</ul>
+<h2 class=3D"_mce_tagged_br" style=3D"margin-left: 30.0px;" id=3D"Inhaltsve=
+rzeichnis-Methoden"><span style=3D"color: rgb(51,51,0);"><a href=3D"https:/=
+/confluence.adesso.de/display/LIPORTFOLIO/Methoden" rel=3D"nofollow"><span =
+style=3D"color: rgb(51,51,0);">Methoden</span></a></span></h2>
+<ul>
+<li style=3D"list-style-type: none;background-image: none;">
+<ul>
+<li class=3D"_mce_tagged_br"><p class=3D"_mce_tagged_br"><a href=3D"https:/=
+/confluence.adesso.de/display/LIPORTFOLIO/Design+Thinking" rel=3D"nofollow"=
+>Design Thinking</a></p></li>
+<li class=3D"_mce_tagged_br"><p class=3D"_mce_tagged_br"><a href=3D"https:/=
+/confluence.adesso.de/display/LIPORTFOLIO/Interaction+Room" rel=3D"nofollow=
+">Interaction Room</a></p></li>
+<li class=3D"_mce_tagged_br"><span style=3D"color: rgb(51,51,0);"><span sty=
+le=3D"color: rgb(51,51,0);">CX Workshop</span></span></li>
+<li class=3D"_mce_tagged_br"><span style=3D"color: rgb(51,51,0);"><span sty=
+le=3D"color: rgb(51,51,0);">Customer Journey</span></span></li>
+<li class=3D"_mce_tagged_br"><span style=3D"color: rgb(51,51,0);"><span sty=
+le=3D"color: rgb(51,51,0);">Neuromarketing</span></span></li>
+</ul></li>
+</ul>
+<p><br></p>
+<p><br></p>
+<p class=3D"_mce_tagged_br"><span class=3D"plugin_pagetree_children_span" s=
+tyle=3D"color: rgb(0,51,0);"><span style=3D"color: rgb(0,51,0);"><br></span=
+></span></p>
+</div>=20
+</div>=20
+</div>=20
+</div>
+    </div>
+</body>
+</html>
+------=_Part_4731_364916863.1599057108245--

@@ -8,7 +8,7 @@ import java.util.*;
 
 public class Methodensammlung {
 
-
+    //Methoden
     public static void addToHashmap(String el1, String el2, HashMap<String, ArrayList<String>> hashMap) {
         if (hashMap.get(el1) != null){
             boolean alreadyIncluded = false;
@@ -26,7 +26,6 @@ public class Methodensammlung {
     }
 
 
-    //Methoden
     public static void loadFile(ArrayList arrayList, String path) throws FileNotFoundException {
         Scanner scanner = new Scanner(new File(path));
         while (scanner.hasNextLine()) {
@@ -41,6 +40,7 @@ public class Methodensammlung {
         }
     }
 
+
     public static void saveFile(ArrayList<String> list, String path, boolean append) throws IOException {
         FileWriter fileWriter = new FileWriter(path, append);
         String output = "";
@@ -52,8 +52,9 @@ public class Methodensammlung {
         fileWriter.close();
     }
 
-    public static void saveFile2(HashMap<String, ArrayList<String>> hashMap, String path, boolean override) throws IOException {
-        FileWriter fileWriter = new FileWriter(path, override);
+
+    public static void saveFile2(HashMap<String, ArrayList<String>> hashMap, String path, boolean append) throws IOException {
+        FileWriter fileWriter = new FileWriter(path, append);
         String output = "";
         for (Map.Entry<String, ArrayList<String>> entry : hashMap.entrySet()) {
             output += String.format("%-70s\t %-70s\n", entry.getKey(), entry.getValue().get(0));
