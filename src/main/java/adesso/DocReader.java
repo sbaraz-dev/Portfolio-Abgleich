@@ -16,9 +16,11 @@ public class DocReader {
         List<String> inputLoB = new ArrayList<String>();
         List<String> inputOneA = new ArrayList<String>();
 
+        // load the files
         loadFile(path, inputLoB);
         loadFile(path2, inputOneA);
 
+        //clean the files
         List<String> indivTopicsLoB = filterForTopics(inputLoB);
         List<String> indivTopicsOneA = filterForTopics(inputOneA);
 
@@ -26,21 +28,24 @@ public class DocReader {
 
         for (int i = 0; i < indivTopicsLoB.size(); i++) {
             try {
-                indivTopicsLoB.add(indivTopicsLoB.get(i).split("\t")[1]);
+                indivTopicsLoBCleaned.add(indivTopicsLoB.get(i).split(". ")[1]);
 
             } catch (Exception e) {
-                System.err.println(indivTopicsLoB.get(i).split("\t")[0]);
+                continue;
+                //System.err.println(indivTopicsLoB.get(i).split("\t")[0]);
             }
         }
 
-        for (int i = 0; i < indivTopicsLoBCleaned.size(); i++) {
-            System.out.println(indivTopicsLoBCleaned.get(i));
-        }
+
+//        for (int i = 0; i < indivTopicsLoBCleaned.size(); i++) {
+//            System.out.println(indivTopicsLoBCleaned.get(i));
+//        }
+
+
 
 //        for (int i = 0; i < indivTopicsOneA.size(); i++) {
 //            indivTopicsLoB.set(i, indivTopicsOneA.get(i).split("\t")[1]);
 //        }
-
         for (String el : indivTopicsLoB) {
             System.out.println(el);
         }
