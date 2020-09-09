@@ -25,36 +25,34 @@ public class DocReader {
         List<String> indivTopicsOneA = filterForTopics(inputOneA);
 
         List<String> indivTopicsLoBCleaned = new ArrayList<String>();
+        List<String> indivTopicsOneACleaned = new ArrayList<String>();
 
         for (int i = 0; i < indivTopicsLoB.size(); i++) {
             try {
-                indivTopicsLoBCleaned.add(indivTopicsLoB.get(i).split(". ")[1]);
-
+                indivTopicsLoBCleaned.add(indivTopicsLoB.get(i).split(". ", 2)[1]);
             } catch (Exception e) {
+                System.err.println("Fehler bei:\t" + indivTopicsLoB.get(i));
                 continue;
-                //System.err.println(indivTopicsLoB.get(i).split("\t")[0]);
+            }
+        }
+
+        for (int i = 0; i < indivTopicsOneA.size(); i++) {
+            try {
+                indivTopicsOneACleaned.add(indivTopicsOneA.get(i).split(". ", 2)[1]);
+            } catch (Exception e) {
+                System.err.println("Fehler bei:\t" + indivTopicsOneA.get(i));
+                continue;
             }
         }
 
 
-//        for (int i = 0; i < indivTopicsLoBCleaned.size(); i++) {
-//            System.out.println(indivTopicsLoBCleaned.get(i));
-//        }
-
-
-
-//        for (int i = 0; i < indivTopicsOneA.size(); i++) {
-//            indivTopicsLoB.set(i, indivTopicsOneA.get(i).split("\t")[1]);
-//        }
-        for (String el : indivTopicsLoB) {
+        for (String el : indivTopicsLoBCleaned) {
             System.out.println(el);
         }
-//        for (String el : indivTopicsOneA) {
-//            System.out.println(el);
-//        }
 
-
-
+        for (String el : indivTopicsOneACleaned) {
+            System.out.println(el);
+        }
 
     }
 
